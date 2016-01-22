@@ -1,4 +1,4 @@
-# Shhmduino
+# SHHMduino
 SHH&amp;M Arduino Clone
 
 Files required to build the SHHMduino Arduino Clone
